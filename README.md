@@ -15,7 +15,7 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
 ---
 
 ## Latest News
-<div style="overflow: auto; max-height: 100px;">
+<div style="overflow: auto; max-height: 300px;">
     <p><strong>July 15, 2023:</strong> New Feature Added</p>
     <p>This is a summary of the new feature that was added to our product.</p>
     
@@ -57,5 +57,6 @@ aaa
 ## Contact
 
 - Email: a0918050152@gmail.com
-- LinkedIn: [linkedin.com/in/johndoe](https://www.linkedin.com/in/johndoe)
-- GitHub: [github.com/johndoe](https://github.com/johndoe)
+- LinkedIn: [linkedin.com/in/ktsubasa0304](https://linkedin.com/in/ktsubasa0304)
+- Facebook: [fb.com/ktsubasa0304](https://fb.com/ktsubasa0304)
+- GitHub: [github.com/Koyama-Tsubasa](https://github.com/Koyama-Tsubasa)
