@@ -15,29 +15,16 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
 ---
 
 ## Latest News
-<div style="overflow: auto; height: 200px;">
-
-aaa: aaa
-bbb: bbb
-aaa: aaa
-bbb: bbb
-aaa: aaa
-bbb: bbb
-aaa: aaa
-bbb: bbb
-aaa: aaa
-bbb: bbb
-aaa: aaa
-bbb: bbb
-aaa: aaa
-bbb: bbb
-aaa: aaa
-bbb: bbb
-aaa: aaa
-bbb: bbb
-aaa: aaa
-bbb: bbb
-
+<div style="overflow: auto; max-height: 300px;">
+    <p><strong>July 15, 2023:</strong> New Feature Added</p>
+    <p>This is a summary of the new feature that was added to our product.</p>
+    
+    <p><strong>July 10, 2023:</strong> Important Announcement</p>
+    <p>We have an important announcement about upcoming changes...</p>
+    
+    <p><strong>July 5, 2023:</strong> Event Recap</p>
+    <p>A recap of the recent event we attended, including key highlights.</p>
+    
 </div>
 
 ---
