@@ -1,5 +1,4 @@
 # Software Engineer
-## Pegasus Verification System
 ## Cadence Design Systems, Inc., Taiwan
 ---
 
