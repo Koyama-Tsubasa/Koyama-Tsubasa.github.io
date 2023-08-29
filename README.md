@@ -15,7 +15,7 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
 ---
 
 ## Latest News
-<div style="overflow: auto; max-height: 300px;">
+<div style="overflow: auto; max-height: 100px;">
     <p><strong>July 15, 2023:</strong> New Feature Added</p>
     <p>This is a summary of the new feature that was added to our product.</p>
     
@@ -24,7 +24,9 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
     
     <p><strong>July 5, 2023:</strong> Event Recap</p>
     <p>A recap of the recent event we attended, including key highlights.</p>
-    
+
+    <p><strong>July 5, 2023:</strong> Event Recap</p>
+    <p>A recap of the recent event we attended, including key highlights.</p>
 </div>
 
 ---
