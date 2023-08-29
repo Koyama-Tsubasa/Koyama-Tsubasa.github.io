@@ -36,7 +36,7 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
     <p>I commenced my BSc in Computer Science and Information Engineering at Tamkang University (TKU).</p>
     
 </div>
-
+<br>
 
 ---
 
