@@ -1,4 +1,5 @@
-# Software Engineer | Pegasus Verification System | Cadence Design Systems, Inc.
+# Software Engineer
+##Pegasus Verification System | Cadence Design Systems, Inc.
 ---
 
 ## About Me
