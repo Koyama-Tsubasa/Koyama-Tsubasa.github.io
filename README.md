@@ -17,10 +17,13 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
 ## Latest News
 <div style="overflow: auto; max-height: 300px;">
 
+    <p><strong>Sep., 2023:</strong> Job Commencement Information</p>
+    <p>I start my first job as a software engineer at Cadence Design Systems, Inc.</p>
+
     <p><strong>Aug., 2023:</strong> Graduation Information</p>
     <p>I completed my MSc in Computer Science from National Tsing Hua University (NTHU).</p>
 
-    <p><strong>Aug., 2023:</strong> Paper Acceptance</p>
+    <p><strong>Nov., 2022:</strong> Paper Acceptance</p>
     <p>Our paper "[Deep Learning based Refinement for Package Substrate Routing](https://ieeexplore.ieee.org/document/10195268/)" is accepted to 2023 IEEE 73rd Electronic Components and Technology Conference (ECTC).</p>
     
     <p><strong>Sep., 2021:</strong> Admission Information</p>
