@@ -16,17 +16,22 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
 
 ## Latest News
 <div style="overflow: auto; max-height: 300px;">
-    <p><strong>July 15, 2023:</strong> New Feature Added</p>
-    <p>This is a summary of the new feature that was added to our product.</p>
-    
-    <p><strong>July 10, 2023:</strong> Important Announcement</p>
-    <p>We have an important announcement about upcoming changes...</p>
-    
-    <p><strong>July 5, 2023:</strong> Event Recap</p>
-    <p>A recap of the recent event we attended, including key highlights.</p>
 
-    <p><strong>July 5, 2023:</strong> Event Recap</p>
-    <p>A recap of the recent event we attended, including key highlights.</p>
+    <p><strong>Aug., 2023:</strong> Graduation Information</p>
+    <p>I completed my MSc in Computer Science from National Tsing Hua University (NTHU).</p>
+
+    <p><strong>Aug., 2023:</strong> Paper Acceptance</p>
+    <p>Our paper "[Deep Learning based Refinement for Package Substrate Routing](https://ieeexplore.ieee.org/document/10195268/)" is accepted to 2023 IEEE 73rd Electronic Components and Technology Conference (ECTC).</p>
+    
+    <p><strong>Sep., 2021:</strong> Admission Information</p>
+    <p>I commenced my MSc in Computer Science at National Tsing Hua University (NTHU).</p>
+    
+    <p><strong>Jun., 2021:</strong> Graduation Information</p>
+    <p>I completed my BSc in Computer Science and Information Engineering from Tamkang University (TKU).</p>
+    
+    <p><strong>Sep., 2017:</strong> Admission Information</p>
+    <p>I commenced my BSc in Computer Science and Information Engineering at Tamkang University (TKU).</p>
+    
 </div>
 
 ---
