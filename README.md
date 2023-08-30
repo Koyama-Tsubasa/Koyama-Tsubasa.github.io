@@ -17,22 +17,22 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
 ## Latest News
 <div style="overflow: auto; max-height: 300px;">
 
-    <p><strong>Sep., 2023:</strong> Job Commencement Information <br>
+    <p><strong>Sep., 2023:</strong> <b>Job Commencement Information</b> <br>
     I start my first job as a software engineer at Cadence Design Systems, Inc., Taiwan!</p>
 
-    <p><strong>Aug., 2023:</strong> Graduation Information <br>
+    <p><strong>Aug., 2023:</strong> <b>MSc Graduation Information</b> <br>
     I completed my MSc in Computer Science from National Tsing Hua University (NTHU).</p>
 
-    <p><strong>Nov., 2022:</strong> Paper Acceptance <br>
+    <p><strong>Nov., 2022:</strong> <b>Paper Acceptance</b> <br>
     Our paper "<a href="https://ieeexplore.ieee.org/document/10195268/" style="text-decoration: none">Deep Learning based Refinement for Package Substrate Routing</a>" is accepted to 2023 IEEE 73rd Electronic Components and Technology Conference (ECTC).</p>
     
-    <p><strong>Sep., 2021:</strong> Admission Information <br>
+    <p><strong>Sep., 2021:</strong> <b>MSc Admission Information</b> <br>
     I commenced my MSc in Computer Science at National Tsing Hua University (NTHU).</p>
     
-    <p><strong>Jun., 2021:</strong> Graduation Information <br>
+    <p><strong>Jun., 2021:</strong> <b>BSc Graduation Information</b> <br>
     I completed my BSc in Computer Science and Information Engineering from Tamkang University (TKU).</p>
     
-    <p><strong>Sep., 2017:</strong> Admission Information <br>
+    <p><strong>Sep., 2017:</strong> <b>BSc Admission Information</b> <br>
     I commenced my BSc in Computer Science and Information Engineering at Tamkang University (TKU).</p>
     
 </div>
