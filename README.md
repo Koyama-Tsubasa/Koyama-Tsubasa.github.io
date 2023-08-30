@@ -42,7 +42,7 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
 
 ## Employment History
 
-### <span style="font-size:larger;"> **Software Engineer** </span> <br> Pegasus Verification System, *Cadence Design Systems, Inc.*, Taiwan
+### **Software Engineer** <br> <span style="font-size:smaller;"> Pegasus Verification System, *Cadence Design Systems, Inc.*, Taiwan </span>
 
 <div style="margin-top: -20px;">
 <ul>
@@ -71,6 +71,7 @@ Sep. 2017 - Jun. 2021 <br> **BSc, Computer Science and Information Engineering**
 **Deep Learning based Refinement for Package Substrate Routing**  
 Peng-Tai Huang, <ins>**Tsubasa Koyama**</ins>, Keng-Tuan Chang, Chih-Yi Huang, Chen-Chao Wang, and Tsung-Yi Ho  
 *IEEE 73rd Electronic Components and Technology Conference (ECTC), 2023* <br>
+
 <div style="text-align: left; margin-top: -20px; display: inline-block;">
     
 [Abstract](#abstract)
