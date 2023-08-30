@@ -4,7 +4,7 @@
 
 ## <a href="assets/pdf/Curriculum_Vitae.pdf" target="_blank">About Me</a> 
 
-I am a software engineer at [Cadence Design Systems, Inc.](https://www.cadence.com/en_US/home.html), working within the [Pegasus Verification System](https://www.cadence.com/en_US/home/tools/digital-design-and-signoff/silicon-signoff/pegasus-verification-system.html) team.
+I am a software engineer at <a href="https://www.cadence.com/en_US/home.html" target="_blank">Cadence Design Systems, Inc.</a>, working within the [Pegasus Verification System](https://www.cadence.com/en_US/home/tools/digital-design-and-signoff/silicon-signoff/pegasus-verification-system.html) team.
 I am interested in the realm of Electronic Design Automation (EDA), particularly in the domain of algorithmic thinking.
 
 Before joining Cadence, I pursued my MSc in Computer Science from [National Tsing Hua University (NTHU)](https://nthu-en.site.nthu.edu.tw/), and obtained my BSc in Computer Science and Information Engineering from [Tamkang University (TKU)](https://english.tku.edu.tw/) in Taiwan.
