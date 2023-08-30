@@ -90,8 +90,8 @@ Peng-Tai Huang, <ins>**Tsubasa Koyama**</ins>, Keng-Tuan Chang, Chih-Yi Huang, C
 *IEEE 73rd Electronic Components and Technology Conference (ECTC), 2023* <br>
 
 <div style="margin-top: -20px;">
-<div style="text-align: left; display: inline-block; border: 1px dotted #999;">
-  <details id="abstract">
+<div style="text-align: left; display: inline-block;">
+  <details id="abstract" style="border: 1px dotted #999;">
     <summary>Abstract</summary>
     <p>Heterogeneous integration packaging has become increasingly important due to recent rapid technological advancements. In these designs, substrate routing is a critical factor in terms of time to market. While there are some existing works and automatic routing tools available to help designers solve routing problems, they often result in poor performance due to the complex constraints and specifications of industrial designs. Manual revision of these results is time-consuming and can take weeks. In this work, we propose a deep learning approach to improving the area distribution and reducing detours in the autorouting results of industrial Flip-Chip Ball Grid Array (FCBGA) substrate designs, with the goal of reducing the time needed for manual modification. Experimental results show that our proposed methods can effectively refine both detours and area distribution in auto-routing results, producing results that are similar to manual routing. We also successfully reduce the modification time compared to manual one.</p>
   </details>
