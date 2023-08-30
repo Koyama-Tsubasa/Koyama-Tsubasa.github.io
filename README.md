@@ -42,14 +42,9 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
 
 ## Employment History
 
-<div style="margin-top: -10px;">
-<span style="font-size:larger;">
-    
-**Software Engineer**
-</span> <br> Pegasus Verification System, *Cadence Design Systems, Inc.*, Taiwan
-
+<span style="font-size:larger;"> **Software Engineer** </span> <br> Pegasus Verification System, *Cadence Design Systems, Inc.*, Taiwan
+<div style="margin-top: -20px;">
 - Product Overview: A cloud-ready physical signoff solution with a highly parallel architecture.
-
 </div>
 
 ---
@@ -78,6 +73,7 @@ Peng-Tai Huang, <ins>**Tsubasa Koyama**</ins>, Keng-Tuan Chang, Chih-Yi Huang, C
     <button>PDF</button>
   </a>
 </div>
+<br>
 
 ---
 
