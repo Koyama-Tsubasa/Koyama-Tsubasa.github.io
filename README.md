@@ -115,12 +115,12 @@ Peng-Tai Huang, <ins>**Tsubasa Koyama**</ins>, Keng-Tuan Chang, Chih-Yi Huang, C
 
 ## Interests
 
-- Playing Sports (Volleyball ![volleyball](assets/img/volleyball.png), Badminton ![badminton](assets/img/badminton.png), etc.)
-- Playing Board Games ![board games](assets/img/board-game.png)
-- Going to Karaoke ![karaoke](assets/img/karaoke.png)
-- Listening to Music ![music](assets/img/music.png)
-- Watching Anime ![anime](assets/img/animate.png)
-- Reading Light Novels ![light novel](assets/img/light novel.png)
+- Playing Sports (Volleyball <img src="assets/img/volleyball.png" alt="volleyball" width="20" height="20">, Badminton <img src="assets/img/badminton.png" alt="badminton" width="20" height="20">, etc.)
+- Playing Board Games <img src="assets/img/board-game.png" alt="board games" width="20" height="20">
+- Going to Karaoke <img src="assets/img/karaoke.png" alt="karaoke" width="20" height="20">
+- Listening to Music <img src="assets/img/music.png" alt="music" width="20" height="20">
+- Watching Anime <img src="assets/img/animate.png" alt="anime" width="20" height="20">
+- Reading Light Novels <img src="assets/img/light-novel.png" alt="light novel" width="20" height="20">
 
 ---
 
