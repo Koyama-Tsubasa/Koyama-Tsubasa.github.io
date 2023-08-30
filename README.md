@@ -55,14 +55,18 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
 ## Education
 
 Sep. 2021 - Aug. 2023 <br>
-<h3> <b>MSc, Computer Science</b> <br> <span style="font-size:smaller;"> <i>National Tsing Hua University</i>, Taiwan </span> </h3>
+
+<div style="margin-top: -15px;">
+    
+### **MSc, Computer Science** <br> <span style="font-size:smaller;"> *National Tsing Hua University*, Taiwan </span>
+</div>
 
 <div style="margin-top: -15px;">
 <ul>
   <li>Tsing Hua Emerging Technology Automation (THETA) Lab
-    <ul style="list-style-type: lower-alpha; padding-bottom: 0;">
-    <li style="margin-left:2em">Advisor: <b>Prof. Tsung-Yi Ho</b></li>
-    <li style="margin-left:2em; padding-bottom: 0;">Research Focus: Electronic Design Automation (EDA), Artificial Intelligence (AI)</li>
+    <ul style="padding-bottom: 0;">
+    <li>Advisor: <b>Prof. Tsung-Yi Ho</b></li>
+    <li style="padding-bottom: 0;">Research Focus: Electronic Design Automation (EDA), Artificial Intelligence (AI)</li>
     </ul>
   </li>
 </ul>
