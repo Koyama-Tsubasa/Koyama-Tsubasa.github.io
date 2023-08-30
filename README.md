@@ -49,24 +49,22 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
 
 ## Education
 
-Sep. 2021 - Aug. 2023
-### **MSc, Computer Science**, *National Tsing Hua University*, Taiwan
+Sep. 2021 - Aug. 2023 <br> **MSc, Computer Science**, *National Tsing Hua University*, Taiwan
 - Tsing Hua Emerging Technology Automation (THETA) Lab
     - Advisor: **Prof. Tsung-Yi Ho**
     - Research Focus: Electronic Design Automation (EDA), Artificial Intelligence (AI)
 - Master Thesis: *Hybrid Refinement Strategy for Package Substrate Routing*
 - Overall GPA: *3.86/4.30*
 
-Sep. 2017 - Jun. 2021
-### **BSc, Computer Science and Information Engineering**, *Tamkang University*, Taiwan
+Sep. 2017 - Jun. 2021 <br> **BSc, Computer Science and Information Engineering**, *Tamkang University*, Taiwan
 - Overall GPA: *3.96/4.30*
 
 ---
 
 ## Selected Publications
 
-**Deep Learning based Refinement for Package Substrate Routing**
-Peng-Tai Huang, <ins>**Tsubasa Koyama**</ins>, Keng-Tuan Chang, Chih-Yi Huang, Chen-Chao Wang, and Tsung-Yi Ho
+**Deep Learning based Refinement for Package Substrate Routing**  
+Peng-Tai Huang, <ins>**Tsubasa Koyama**</ins>, Keng-Tuan Chang, Chih-Yi Huang, Chen-Chao Wang, and Tsung-Yi Ho  
 *IEEE 73rd Electronic Components and Technology Conference (ECTC), 2023*
 
 ---
