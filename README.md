@@ -1,3 +1,9 @@
+<style>
+ul {
+  margin-top: 0;
+}
+</style>
+
 # Software Engineer
 ## Cadence Design Systems, Inc., Taiwan
 ---
