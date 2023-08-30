@@ -2,7 +2,7 @@
 ## Cadence Design Systems, Inc., Taiwan
 ---
 
-## About Me
+## [About Me](assets/pdf/Curriculum_Vitae.pdf)
 
 I am a software engineer at [Pegasus Verification System](https://www.cadence.com/en_US/home/tools/digital-design-and-signoff/silicon-signoff/pegasus-verification-system.html) within [Cadence Design Systems, Inc.](https://www.cadence.com/en_US/home.html)
 I am interested in the realm of Electronic Design Automation (EDA), particularly in the domain of algorithmic thinking.
