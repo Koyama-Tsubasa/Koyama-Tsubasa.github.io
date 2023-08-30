@@ -54,7 +54,7 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
 
 ## Education
 
-Sep. 2021 - Aug. 2023 <br>
+Sep. 2021 - Aug. 2023
 
 <div style="margin-top: -15px;">
     
