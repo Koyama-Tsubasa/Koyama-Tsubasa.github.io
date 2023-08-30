@@ -42,21 +42,22 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
 
 ## Employment History
 
-### **Software Engineer, Pegasus Verification System**, *Cadence Design Systems, Inc.*, Taiwan
+### **Software Engineer**
+#### *Pegasus Verification System, Cadence Design Systems, Inc.*, Taiwan
 - Product Overview: A cloud-ready physical signoff solution with a highly parallel architecture.
 
 ---
 
 ## Education
 
-Sep. 2021 - Aug. 2023 <br> **MSc, Computer Science**, *National Tsing Hua University*, Taiwan
+Sep. 2021 - Aug. 2023 <br> **MSc, Computer Science** <br> *National Tsing Hua University*, Taiwan
 - Tsing Hua Emerging Technology Automation (THETA) Lab
     - Advisor: **Prof. Tsung-Yi Ho**
     - Research Focus: Electronic Design Automation (EDA), Artificial Intelligence (AI)
 - Master Thesis: *Hybrid Refinement Strategy for Package Substrate Routing*
 - Overall GPA: *3.86/4.30*
 
-Sep. 2017 - Jun. 2021 <br> **BSc, Computer Science and Information Engineering**, *Tamkang University*, Taiwan
+Sep. 2017 - Jun. 2021 <br> **BSc, Computer Science and Information Engineering** <br> *Tamkang University*, Taiwan
 - Overall GPA: *3.96/4.30*
 
 ---
