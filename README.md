@@ -24,7 +24,7 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
     <p>I completed my MSc in Computer Science from National Tsing Hua University (NTHU).</p>
 
     <p><strong>Nov., 2022:</strong> Paper Acceptance</p>
-    <p>Our paper "[Deep Learning based Refinement for Package Substrate Routing](https://ieeexplore.ieee.org/document/10195268/)" is accepted to 2023 IEEE 73rd Electronic Components and Technology Conference (ECTC).</p>
+    <p>Our paper "<a href="https://ieeexplore.ieee.org/document/10195268/" style="text-decoration: none">Deep Learning based Refinement for Package Substrate Routing</a>" is accepted to 2023 IEEE 73rd Electronic Components and Technology Conference (ECTC).</p>
     
     <p><strong>Sep., 2021:</strong> Admission Information</p>
     <p>I commenced my MSc in Computer Science at National Tsing Hua University (NTHU).</p>
@@ -42,24 +42,32 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
 
 ## Employment History
 
-### aaa
-Designed and developed a responsive portfolio website using HTML, CSS, and JavaScript. Showcasing my skills and projects to potential employers.
+### **Software Engineer, Pegasus Verification System**, *Cadence Design Systems, Inc.*, Taiwan
+- Product Overview: A cloud-ready physical signoff solution with a highly parallel architecture.
 
 ---
 
 ## Education
-aaa
-- HTML5, CSS3, JavaScript
-- Python, Django
-- React, Redux
-- Git, GitHub
-- Responsive Design
-- UI/UX Design Principles
+
+Sep. 2021 - Aug. 2023
+### **MSc, Computer Science**, *National Tsing Hua University*, Taiwan
+- Tsing Hua Emerging Technology Automation (THETA) Lab
+    - Advisor: **Prof. Tsung-Yi Ho**
+    - Research Focus: Electronic Design Automation (EDA), Artificial Intelligence (AI)
+- Master Thesis: *Hybrid Refinement Strategy for Package Substrate Routing*
+- Overall GPA: *3.86/4.30*
+
+Sep. 2017 - Jun. 2021
+### **BSc, Computer Science and Information Engineering**, *Tamkang University*, Taiwan
+- Overall GPA: *3.96/4.30*
 
 ---
 
 ## Selected Publications
-aaa
+
+**Deep Learning based Refinement for Package Substrate Routing**
+Peng-Tai Huang, <ins>**Tsubasa Koyama**</ins>, Keng-Tuan Chang, Chih-Yi Huang, Chen-Chao Wang, and Tsung-Yi Ho
+*IEEE 73rd Electronic Components and Technology Conference (ECTC), 2023*
 
 ---
 
