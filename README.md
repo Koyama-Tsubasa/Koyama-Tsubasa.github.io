@@ -24,7 +24,7 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
     I completed my MSc in Computer Science from National Tsing Hua University (NTHU).</p>
 
     <p><strong>Nov., 2022:</strong> <b>Paper Acceptance</b> <br>
-    Our paper "<a href="https://ieeexplore.ieee.org/document/10195268/" style="text-decoration: none">Deep Learning based Refinement for Package Substrate Routing</a>" is accepted to 2023 IEEE 73rd Electronic Components and Technology Conference (ECTC).</p>
+    Our paper "<a href="assets/pdf/Deep_Learning_based_Refinement_for_Package_Substrate_Routing_ECTC.pdf" style="text-decoration: none">Deep Learning based Refinement for Package Substrate Routing</a>" is accepted to 2023 IEEE 73rd Electronic Components and Technology Conference (ECTC).</p>
     
     <p><strong>Sep., 2021:</strong> <b>MSc Admission Information</b> <br>
     I commenced my MSc in Computer Science at National Tsing Hua University (NTHU).</p>
