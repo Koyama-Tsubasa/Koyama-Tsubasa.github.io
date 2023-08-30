@@ -1,9 +1,3 @@
-<style>
-ul {
-  margin-top: 0;
-}
-</style>
-
 # Software Engineer
 ## Cadence Design Systems, Inc., Taiwan
 ---
@@ -48,10 +42,10 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
 
 ## Employment History
 
-### **Software Engineer** <br> #### *Pegasus Verification System, Cadence Design Systems, Inc.*, Taiwan
-<ul>
-  <li>Product Overview: A cloud-ready physical signoff solution with a highly parallel architecture.</li>
-</ul>
+<span style="font-size:larger;">**Software Engineer**</span> <br> *Pegasus Verification System, Cadence Design Systems, Inc.*, Taiwan
+<div style="margin-top: -10px;">
+- Product Overview: A cloud-ready physical signoff solution with a highly parallel architecture.
+</div>
 
 ---
 
