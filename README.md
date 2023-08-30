@@ -1,9 +1,3 @@
-<style>
-ul {
-  margin-top: 0;
-}
-</style>
-
 # Software Engineer
 ## Cadence Design Systems, Inc., Taiwan
 ---
@@ -50,6 +44,11 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
 
 ### **Software Engineer**
 #### *Pegasus Verification System, Cadence Design Systems, Inc.*, Taiwan
+<style>
+ul {
+  margin-top: 0;
+}
+</style>
 - Product Overview: A cloud-ready physical signoff solution with a highly parallel architecture.
 
 ---
@@ -72,7 +71,12 @@ Sep. 2017 - Jun. 2021 <br> **BSc, Computer Science and Information Engineering**
 
 **Deep Learning based Refinement for Package Substrate Routing**  
 Peng-Tai Huang, <ins>**Tsubasa Koyama**</ins>, Keng-Tuan Chang, Chih-Yi Huang, Chen-Chao Wang, and Tsung-Yi Ho  
-*IEEE 73rd Electronic Components and Technology Conference (ECTC), 2023*
+*IEEE 73rd Electronic Components and Technology Conference (ECTC), 2023*  
+<div style="text-align: left;">
+  <a href="assets/pdf/Deep_Learning_based_Refinement_for_Package_Substrate_Routing.pdf" target="_blank">
+    <button>Download PDF</button>
+  </a>
+</div
 
 ---
 
