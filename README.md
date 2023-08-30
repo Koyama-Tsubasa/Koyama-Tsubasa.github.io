@@ -23,8 +23,8 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
     <p><strong>Aug., 2023:</strong> Graduation Information <br>
     I completed my MSc in Computer Science from National Tsing Hua University (NTHU).</p>
 
-    <p><strong>Nov., 2022:</strong> Paper Acceptance</p>
-    <p>Our paper "<a href="https://ieeexplore.ieee.org/document/10195268/" style="text-decoration: none">Deep Learning based Refinement for Package Substrate Routing</a>" is accepted to 2023 IEEE 73rd Electronic Components and Technology Conference (ECTC).</p>
+    <p><strong>Nov., 2022:</strong> Paper Acceptance <br>
+    Our paper "<a href="https://ieeexplore.ieee.org/document/10195268/" style="text-decoration: none">Deep Learning based Refinement for Package Substrate Routing</a>" is accepted to 2023 IEEE 73rd Electronic Components and Technology Conference (ECTC).</p>
     
     <p><strong>Sep., 2021:</strong> Admission Information <br>
     I commenced my MSc in Computer Science at National Tsing Hua University (NTHU).</p>
@@ -55,11 +55,19 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
 ## Education
 
 Sep. 2021 - Aug. 2023 <br> **MSc, Computer Science** <br> *National Tsing Hua University*, Taiwan
-- Tsing Hua Emerging Technology Automation (THETA) Lab
-    - Advisor: **Prof. Tsung-Yi Ho**
-    - Research Focus: Electronic Design Automation (EDA), Artificial Intelligence (AI)
-- Master Thesis: *Hybrid Refinement Strategy for Package Substrate Routing*
-- Overall GPA: *3.86/4.30*
+
+<div style="margin-top: -15px;">
+<ul>
+  <li>Tsing Hua Emerging Technology Automation (THETA) Lab
+    <ol style="list-style-type: lower-alpha; padding-bottom: 0;">
+    <li style="margin-left:2em">Advisor: **Prof. Tsung-Yi Ho**</li>
+    <li style="margin-left:2em; padding-bottom: 0;">Research Focus: Electronic Design Automation (EDA), Artificial Intelligence (AI)</li>
+    </ol>
+  </li>
+  <li>Master Thesis: *Hybrid Refinement Strategy for Package Substrate Routing*</li>
+  <li>Overall GPA: *3.86/4.30*</li>
+</ul>
+</div>
 
 Sep. 2017 - Jun. 2021 <br> **BSc, Computer Science and Information Engineering** <br> *Tamkang University*, Taiwan
 - Overall GPA: *3.96/4.30*
@@ -73,9 +81,6 @@ Peng-Tai Huang, <ins>**Tsubasa Koyama**</ins>, Keng-Tuan Chang, Chih-Yi Huang, C
 *IEEE 73rd Electronic Components and Technology Conference (ECTC), 2023* <br>
 
 <div style="text-align: left; margin-top: -20px; display: inline-block;">
-    
-[Abstract](#abstract)
-
   <details id="abstract">
     <summary>Abstract</summary>
     <p>Heterogeneous integration packaging has become increasingly important due to recent rapid technological advancements. In these designs, substrate routing is a critical factor in terms of time to market. While there are some existing works and automatic routing tools available to help designers solve routing problems, they often result in poor performance due to the complex constraints and specifications of industrial designs. Manual revision of these results is time-consuming and can take weeks. In this work, we propose a deep learning approach to improving the area distribution and reducing detours in the autorouting results of industrial Flip-Chip Ball Grid Array (FCBGA) substrate designs, with the goal of reducing the time needed for manual modification. Experimental results show that our proposed methods can effectively refine both detours and area distribution in auto-routing results, producing results that are similar to manual routing. We also successfully reduce the modification time compared to manual one.</p>
