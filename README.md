@@ -54,13 +54,7 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
 
 ## Education
 
-Sep. 2021 - Aug. 2023
-
-<div style="margin-top: -15px;">
-    
-### **MSc, Computer Science** <br> <span style="font-size:smaller;"> *National Tsing Hua University*, Taiwan </span>
-
-</div>
+### <span style="font-size:x-small;"> Sep. 2021 - Aug. 2023 </span> <br> **MSc, Computer Science** <br> <span style="font-size:smaller;"> *National Tsing Hua University*, Taiwan </span>
 
 <div style="margin-top: -15px;">
 <ul>
