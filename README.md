@@ -126,7 +126,7 @@ Peng-Tai Huang, <ins>**Tsubasa Koyama**</ins>, Keng-Tuan Chang, Chih-Yi Huang, C
 
 ## Contact
 
-- Email: a0918050152@gmail.com
+- Email: <a href="mailto:a0918050152@gmail.com" target="_blank">a0918050152@gmail.com</a>
 - LinkedIn: <a href="https://linkedin.com/in/ktsubasa0304" target="_blank">linkedin.com/in/ktsubasa0304</a>
 - Facebook: <a href="https://fb.com/ktsubasa0304" target="_blank">fb.com/ktsubasa0304</a>
 - GitHub: <a href="https://github.com/Koyama-Tsubasa" target="_blank">github.com/Koyama-Tsubasa</a>
