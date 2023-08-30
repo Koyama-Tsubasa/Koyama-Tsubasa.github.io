@@ -54,18 +54,23 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
 
 ## Education
 
-Sep. 2021 - Aug. 2023 <br> **MSc, Computer Science** <br> *National Tsing Hua University*, Taiwan
+Sep. 2021 - Aug. 2023 <br>
+### **MSc, Computer Science** <br> <span style="font-size:smaller;"> *National Tsing Hua University*, Taiwan </span>
 
 <div style="margin-top: -15px;">
 <ul>
   <li>Tsing Hua Emerging Technology Automation (THETA) Lab
-    <ol style="list-style-type: lower-alpha; padding-bottom: 0;">
-    <li style="margin-left:2em">Advisor: **Prof. Tsung-Yi Ho**</li>
+    <ul style="list-style-type: lower-alpha; padding-bottom: 0;">
+    <li style="margin-left:2em">Advisor: <b>Prof. Tsung-Yi Ho</b></li>
     <li style="margin-left:2em; padding-bottom: 0;">Research Focus: Electronic Design Automation (EDA), Artificial Intelligence (AI)</li>
-    </ol>
+    </ul>
   </li>
-  <li>Master Thesis: *Hybrid Refinement Strategy for Package Substrate Routing*</li>
-  <li>Overall GPA: *3.86/4.30*</li>
+</ul>
+</div>
+<div style="margin-top: -15px;">
+<ul>
+  <li>Master Thesis: <i>Hybrid Refinement Strategy for Package Substrate Routing</i></li>
+  <li>Overall GPA: <i>3.86/4.30</i></li>
 </ul>
 </div>
 
