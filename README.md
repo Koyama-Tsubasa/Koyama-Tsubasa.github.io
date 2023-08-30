@@ -106,6 +106,24 @@ Peng-Tai Huang, <ins>**Tsubasa Koyama**</ins>, Keng-Tuan Chang, Chih-Yi Huang, C
 
 ---
 
+## Teachings
+
+### <span style="font-size:x-small;"> Fall 2022 </span> <br> **11110CS 312000** Introduction of Integrated Circuit Design
+### <span style="font-size:x-small;"> 2017 - 2021 </span> <br> **Teaching Assistant** @ Sunny English, Taipei
+
+---
+
+## Interests
+
+- Playing Sports (Volleyball ![volleyball](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fvolleyball_5496293&psig=AOvVaw2e1-EMoe0Cp8DPwpg3PkVQ&ust=1693462841750000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCJCTreveg4EDFQAAAAAdAAAAABAD), Badminton ![badminton](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Fbadminton_2828920&psig=AOvVaw3QqpsKEhP_XgIB_hyY4mZW&ust=1693462825242000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKjuoeTeg4EDFQAAAAAdAAAAABAD), etc.)
+- Playing Board Games ![board games](https://www.flaticon.com/free-icon/board-game_5190878)
+- Going to Karaoke ![karaoke](https://www.flaticon.com/free-icon/karaoke_2159722)
+- Listening to Music ![music](https://www.flaticon.com/free-icon/headphones_3043698)
+- Watching Anime ![anime](https://www.flaticon.com/free-icon/animate_5261267)
+- Reading Light Novels ![LN](https://www.flaticon.com/free-icon/book_2633005)
+
+---
+
 ## Contact
 
 - Email: a0918050152@gmail.com
