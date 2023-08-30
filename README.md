@@ -97,7 +97,7 @@ Peng-Tai Huang, <ins>**Tsubasa Koyama**</ins>, Keng-Tuan Chang, Chih-Yi Huang, C
   </details>
 </div>
 <div style="text-align: left; display: inline-block;">
-  <a href="assets/pdf/Deep_Learning_based_Refinement_for_Package_Substrate_Routing.pdf" target="_blank">
+  <a href="assets/pdf/Deep_Learning_based_Refinement_for_Package_Substrate_Routing_ECTC.pdf" target="_blank">
     <button>PDF</button>
   </a>
 </div>
