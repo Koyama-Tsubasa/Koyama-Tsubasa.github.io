@@ -42,7 +42,7 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
 
 ## Employment History
 
-### **Software Engineer** <br> <span style="font-size:smaller;"> Pegasus Verification System, *Cadence Design Systems, Inc.*, Taiwan </span>
+### <span style="font-size:x-small;"> Sep. 2023 - present </span> <br> **Software Engineer** <br> <span style="font-size:smaller;"> Pegasus Verification System, *Cadence Design Systems, Inc.*, Taiwan </span>
 
 <div style="margin-top: -15px;">
 <ul>
@@ -73,8 +73,13 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
 </ul>
 </div>
 
-Sep. 2017 - Jun. 2021 <br> **BSc, Computer Science and Information Engineering** <br> *Tamkang University*, Taiwan
-- Overall GPA: *3.96/4.30*
+### <span style="font-size:x-small;"> Sep. 2017 - Jun. 2021 </span> <br> **BSc, Computer Science and Information Engineering** <br> <span style="font-size:smaller;"> *Tamkang University*, Taiwan </span>
+
+<div style="margin-top: -15px;">
+<ul>
+  <li>Overall GPA: <i>3.96/4.30</i></li>
+</ul>
+</div>
 
 ---
 
