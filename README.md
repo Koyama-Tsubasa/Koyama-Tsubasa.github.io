@@ -120,7 +120,7 @@ Peng-Tai Huang, <ins>**Tsubasa Koyama**</ins>, Keng-Tuan Chang, Chih-Yi Huang, C
 - Going to Karaoke <img src="assets/img/karaoke.png" alt="karaoke" width="20" height="20">
 - Listening to Music <img src="assets/img/music.png" alt="music" width="20" height="20">
 - Watching Anime <img src="assets/img/animate.png" alt="anime" width="20" height="20">
-- Reading Light Novels <img src="assets/img/light-novel.png" alt="light novel" width="20" height="20">
+- Reading Light Novels <img src="assets/img/light novel.png" alt="light novel" width="20" height="20">
 
 ---
 
