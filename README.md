@@ -4,7 +4,7 @@
 
 ## <a href="assets/pdf/Curriculum_Vitae.pdf" target="_blank">About Me</a> 
 
-I am a software engineer at [Pegasus Verification System](https://www.cadence.com/en_US/home/tools/digital-design-and-signoff/silicon-signoff/pegasus-verification-system.html) within [Cadence Design Systems, Inc.](https://www.cadence.com/en_US/home.html)
+I am a software engineer at [Cadence Design Systems, Inc.](https://www.cadence.com/en_US/home.html), working within the [Pegasus Verification System](https://www.cadence.com/en_US/home/tools/digital-design-and-signoff/silicon-signoff/pegasus-verification-system.html) team.
 I am interested in the realm of Electronic Design Automation (EDA), particularly in the domain of algorithmic thinking.
 
 Before joining Cadence, I pursued my MSc in Computer Science from [National Tsing Hua University (NTHU)](https://nthu-en.site.nthu.edu.tw/), and obtained my BSc in Computer Science and Information Engineering from [Tamkang University (TKU)](https://english.tku.edu.tw/) in Taiwan.
@@ -91,7 +91,7 @@ Peng-Tai Huang, <ins>**Tsubasa Koyama**</ins>, Keng-Tuan Chang, Chih-Yi Huang, C
 
 <div style="margin-top: -20px;">
 <div style="text-align: left; display: inline-block;">
-  <details id="abstract" style="border: 1px dotted #999;">
+  <details id="abstract">
     <summary>Abstract</summary>
     <p>Heterogeneous integration packaging has become increasingly important due to recent rapid technological advancements. In these designs, substrate routing is a critical factor in terms of time to market. While there are some existing works and automatic routing tools available to help designers solve routing problems, they often result in poor performance due to the complex constraints and specifications of industrial designs. Manual revision of these results is time-consuming and can take weeks. In this work, we propose a deep learning approach to improving the area distribution and reducing detours in the autorouting results of industrial Flip-Chip Ball Grid Array (FCBGA) substrate designs, with the goal of reducing the time needed for manual modification. Experimental results show that our proposed methods can effectively refine both detours and area distribution in auto-routing results, producing results that are similar to manual routing. We also successfully reduce the modification time compared to manual one.</p>
   </details>
