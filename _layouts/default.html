@@ -18,12 +18,12 @@
     <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/icon/homepage-apple-touch-icon.png">
   </head>
   <body>
-    <div class="wrapper">
-      <header height="80vh">
+    <div>
+      <header>
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
-        <img src="{{site.logo | relative_url}}" alt="Logo" style="width: auto; height: 20%"/>
+        <img src="{{site.logo | relative_url}}" alt="Logo" style="height: 200px"/>
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
@@ -47,14 +47,19 @@
       <section>
       
       {{ content }}
-
+      {% if site.github.is_project_page %}
+      <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+      {% endif %}
+      <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a><br>© Copyright 2023 Tsubasa Koyama.</small></p>
       </section>
-      <footer height="10vh">
+      <!--
+      <footer>
         {% if site.github.is_project_page %}
         <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
         <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a><br>© Copyright 2023 Tsubasa Koyama.</small></p>
       </footer>
+      -->
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
