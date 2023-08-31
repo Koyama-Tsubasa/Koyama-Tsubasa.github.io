@@ -19,7 +19,7 @@
   </head>
   <body>
     <div>
-      <header>
+      <header align="center">
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
@@ -47,10 +47,7 @@
       <section>
       
       {{ content }}
-      {% if site.github.is_project_page %}
-      <p>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-      {% endif %}
-      <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a><br>© Copyright 2023 Tsubasa Koyama.</small></p>
+    
       </section>
       <!--
       <footer>
