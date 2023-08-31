@@ -18,12 +18,12 @@
     <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/icon/homepage-apple-touch-icon.png">
   </head>
   <body>
-    <div>
+    <div class="wrapper">
       <header align="center">
         <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
 
         {% if site.logo %}
-        <img src="{{site.logo | relative_url}}" alt="Logo" width="150px"/>
+        <img src="{{site.logo | relative_url}}" alt="Logo" width="300px"/>
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
