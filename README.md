@@ -1,5 +1,5 @@
-# Software Engineer
-## Cadence Design Systems, Inc., Taiwan
+# **Software Engineer**
+## **Cadence Design Systems, Inc., Taiwan**
 ---
 
 ## <a href="assets/pdf/Curriculum_Vitae.pdf" target="_blank">About Me</a> 
