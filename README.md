@@ -69,7 +69,7 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
 <div style="margin-top: -20px;">
 <ul>
   <li>Master Thesis: <i>Hybrid Refinement Strategy for Package Substrate Routing</i></li>
-  <li>Overall GPA: <i>3.86/4.30</i></li>
+  <li>Overall GPA: <i>3.86/4.00</i></li>
 </ul>
 </div>
 
