@@ -1,4 +1,4 @@
-# **Software Engineer**
+# **Software Engineer II**
 ## **Cadence Design Systems, Inc., Taiwan**
 ---
 
@@ -42,7 +42,7 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
 
 ## Employment History
 
-### <span style="font-size:x-small;"> Sep. 2023 - present </span> <br> **Software Engineer** <br> <span style="font-size:smaller;"> Pegasus Verification System, *Cadence Design Systems, Inc.*, Taiwan </span>
+### <span style="font-size:x-small;"> Sep. 2023 - present </span> <br> **Software Engineer II** <br> <span style="font-size:smaller;"> Pegasus Verification System, *Cadence Design Systems, Inc.*, Taiwan </span>
 
 <div style="margin-top: -15px;">
 <ul>
