@@ -77,6 +77,7 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
 
 <div style="margin-top: -15px;">
 <ul>
+  <li>Independent Study: <i>TRIP-2-GO ~ A Convenient Platform for Traveler ~</i></li>
   <li>Overall GPA: <i>3.96/4.00</i></li>
 </ul>
 </div>
