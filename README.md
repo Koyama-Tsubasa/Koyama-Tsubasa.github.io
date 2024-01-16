@@ -49,7 +49,12 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
 
 <div style="margin-top: -15px;">
 <ul>
-  <li>Product Overview: A cloud-ready physical signoff solution with a highly parallel architecture.</li>
+  <li>Layout Versus Schematic (LVS) RC-mode:
+  <ul>
+      <li>Mainly address issues associated with hierarchical coordinates.</li>
+      <li>Implement newly netlist comparison algorithm (~6x speedup, ~80\% memory reduction)</li>
+  </ul>
+  </li>
 </ul>
 </div>
 
@@ -91,7 +96,7 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
 
 **Hybrid Refinement Strategy for Package Substrate Routing**  
 <ins>**Tsubasa Koyama**</ins>, Ding-Hsun Lin, Yu-Jen Chen, Keng-Tuan Chang, Chih-Yi Huang, Chen-Chao Wang, and Tsung-Yi Ho  
-*The 25th Workshop on Synthesis And System Integration of Mixed Information technologies, 2024* <br>
+*The 25th Workshop on Synthesis And System Integration of Mixed Information technologies (SASIMI), 2024* <br>
 
 **Deep Learning based Refinement for Package Substrate Routing**  
 Peng-Tai Huang, <ins>**Tsubasa Koyama**</ins>, Keng-Tuan Chang, Chih-Yi Huang, Chen-Chao Wang, and Tsung-Yi Ho  
