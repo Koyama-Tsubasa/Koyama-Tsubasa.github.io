@@ -52,7 +52,7 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
   <li>Layout Versus Schematic (LVS) RC-mode:
   <ul>
       <li>Mainly address issues associated with hierarchical coordinates.</li>
-      <li>Implement newly netlist comparison algorithm (~6x speedup, ~80\% memory reduction)</li>
+      <li>Implement newly netlist comparison algorithm (&sim;6x speedup, &sim;80% memory reduction)</li>
   </ul>
   </li>
 </ul>
