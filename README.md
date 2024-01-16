@@ -17,6 +17,9 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
 ## Latest News
 <div style="overflow: auto; max-height: 300px;">
 
+    <p><strong>Jan., 2024:</strong> <b>Paper Acceptance</b> <br>
+    Our paper "<a href="" style="text-decoration: none">Hybrid Refinement Strategy for Package Substrate Routing</a>" is accepted to 2024 The 25th Workshop on Synthesis And System Integration of Mixed Information technologies (SASIMI).</p>
+
     <p><strong>Sep., 2023:</strong> <b>Job Commencement</b> <br>
     I start my first job as a software engineer at <a href="https://www.cadence.com/en_US/home.html" target="_blank">Cadence Design Systems, Inc.</a>, Taiwan!</p>
 
@@ -85,6 +88,10 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
 ---
 
 ## Selected Publications
+
+**Hybrid Refinement Strategy for Package Substrate Routing**  
+<ins>**Tsubasa Koyama**</ins>, Ding-Hsun Lin, Yu-Jen Chen, Keng-Tuan Chang, Chih-Yi Huang, Chen-Chao Wang, and Tsung-Yi Ho  
+*The 25th Workshop on Synthesis And System Integration of Mixed Information technologies, 2024* <br>
 
 **Deep Learning based Refinement for Package Substrate Routing**  
 Peng-Tai Huang, <ins>**Tsubasa Koyama**</ins>, Keng-Tuan Chang, Chih-Yi Huang, Chen-Chao Wang, and Tsung-Yi Ho  
