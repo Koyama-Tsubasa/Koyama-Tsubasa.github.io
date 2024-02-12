@@ -98,6 +98,20 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
 <ins>**Tsubasa Koyama**</ins>, Ding-Hsun Lin, Yu-Jen Chen, Keng-Tuan Chang, Chih-Yi Huang, Chen-Chao Wang, and Tsung-Yi Ho  
 *The 25th Workshop on Synthesis And System Integration of Mixed Information technologies (SASIMI), 2024* <br>
 
+<div style="margin-top: -20px;">
+<div style="text-align: left; display: inline-block;">
+  <details id="abstract">
+    <summary>Abstract</summary>
+    <p>Not prepared yet.</p>
+  </details>
+</div>
+<div style="text-align: left; display: inline-block;">
+  <a href="" target="_blank">
+    <button>PDF</button>
+  </a>
+</div>
+</div>
+
 **Deep Learning based Refinement for Package Substrate Routing**  
 Peng-Tai Huang, <ins>**Tsubasa Koyama**</ins>, Keng-Tuan Chang, Chih-Yi Huang, Chen-Chao Wang, and Tsung-Yi Ho  
 *IEEE 73rd Electronic Components and Technology Conference (ECTC), 2023* <br>
