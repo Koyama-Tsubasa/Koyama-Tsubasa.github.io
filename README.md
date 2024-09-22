@@ -17,6 +17,9 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
 ## Latest News
 <div style="overflow: auto; max-height: 300px;">
 
+    <p><strong>Sep., 2024:</strong> <b>Paper Acceptance</b> <br>
+    Our paper "Hybrid Detour Refinement Strategy for Package Substrate Routing" is accepted to 2025 30th Asia and South Pacific Design Automation Conference (ASP-DAC).</p>
+
     <p><strong>Jan., 2024:</strong> <b>Paper Acceptance</b> <br>
     Our paper "Hybrid Refinement Strategy for Package Substrate Routing" is accepted to 2024 The 25th Workshop on Synthesis And System Integration of Mixed Information technologies (SASIMI).</p>
 
@@ -93,6 +96,24 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
 ---
 
 ## Selected Publications
+
+**Hybrid Detour Refinement Strategy for Package Substrate Routing**  
+Ding-Hsun Lin, <ins>**Tsubasa Koyama**</ins>, Yu-Jen Chen, Keng-Tuan Chang, Chih-Yi Huang, Chen-Chao Wang, and Tsung-Yi Ho 
+*30th Asia and South Pacific Design Automation Conference (ASP-DAC), 2025* <br>
+
+<div style="margin-top: -20px;">
+<div style="text-align: left; display: inline-block;">
+  <details id="abstract">
+    <summary>Abstract</summary>
+    <p>Not prepared yet</p>
+  </details>
+</div>
+<div style="text-align: left; display: inline-block;">
+  <a href="" target="_blank">
+    <button>PDF</button>
+  </a>
+</div>
+</div>
 
 **Hybrid Refinement Strategy for Package Substrate Routing**  
 <ins>**Tsubasa Koyama**</ins>, Ding-Hsun Lin, Yu-Jen Chen, Keng-Tuan Chang, Chih-Yi Huang, Chen-Chao Wang, and Tsung-Yi Ho  
