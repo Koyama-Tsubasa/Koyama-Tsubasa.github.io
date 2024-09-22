@@ -115,7 +115,6 @@ Ding-Hsun Lin, <ins>**Tsubasa Koyama**</ins>, Yu-Jen Chen, Keng-Tuan Chang, Chih
 </div>
 </div>
 <br>
-
 **Hybrid Refinement Strategy for Package Substrate Routing**  
 <ins>**Tsubasa Koyama**</ins>, Ding-Hsun Lin, Yu-Jen Chen, Keng-Tuan Chang, Chih-Yi Huang, Chen-Chao Wang, and Tsung-Yi Ho  
 *The 25th Workshop on Synthesis And System Integration of Mixed Information technologies (SASIMI), 2024*
