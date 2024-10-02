@@ -141,8 +141,8 @@ Peng-Tai Huang, <ins>**Tsubasa Koyama**</ins>, Keng-Tuan Chang, Chih-Yi Huang, C
 
 ## Teachings
 
-### <span style="font-size:x-small;"> Sep. 2021 - Jan. 2022 </span> <br> <span style="font-size:x-small;"> Teaching Assistant </span> <br> **11110CS 312000** Introduction of Integrated Circuit Design <br> <span style="font-size:smaller;"> *National Tsing Hua University, Hsinchu*</span>
-### <span style="font-size:x-small;"> Sep. 2017 - Aug. 2021 </span> <br> <span style="font-size:x-small;"> Teaching Assistant </span> <br> **English Tutoring Center** <br> <span style="font-size:smaller;"> *Sunny English, Taipei*</span>
+### <span style="font-size:x-small;"> Sep. 2021 - Jan. 2022, Teaching Assistant </span> <br> **11110CS 312000** Introduction of Integrated Circuit Design <br> <span style="font-size:smaller;"> *National Tsing Hua University, Hsinchu*</span>
+### <span style="font-size:x-small;"> Sep. 2017 - Aug. 2021, Teaching Assistant </span> <br> **English Tutoring Center** <br> <span style="font-size:smaller;"> *Sunny English, Taipei*</span>
 
 ---
 
