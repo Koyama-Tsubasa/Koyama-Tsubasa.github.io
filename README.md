@@ -97,7 +97,7 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
 ## Selected Publications
 
 **Hybrid Detour Refinement Strategy for Package Substrate Routing**  
-Ding-Hsun Lin, <ins>**Tsubasa Koyama**</ins>, Yu-Jen Chen, Keng-Tuan Chang, Chih-Yi Huang, Chen-Chao Wang, and Tsung-Yi Ho 
+Ding-Hsun Lin, <ins>**Tsubasa Koyama**</ins>, Yu-Jen Chen, Keng-Tuan Chang, Chih-Yi Huang, Chen-Chao Wang, and Tsung-Yi Ho  
 *30th Asia and South Pacific Design Automation Conference (ASP-DAC), 2025* <br>
 
 <div style="margin-top: -20px;">
