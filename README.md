@@ -135,7 +135,6 @@ Peng-Tai Huang, <ins>**Tsubasa Koyama**</ins>, Keng-Tuan Chang, Chih-Yi Huang, C
   </a>
 </div>
 </div>
-<br>
 
 ---
 
