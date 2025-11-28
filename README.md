@@ -18,7 +18,7 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
 <div style="overflow: auto; max-height: 300px;">
 
     <p><strong>Sep., 2024:</strong> <b>Paper Acceptance</b> <br>
-    Our paper "<a href="" style="text-decoration: none">Hybrid Detour Refinement Strategy for Package Substrate Routing</a>" is accepted to 2025 30th Asia and South Pacific Design Automation Conference (ASP-DAC).</p>
+    Our paper "<a href="https://dl.acm.org/doi/10.1145/3658617.3697732" style="text-decoration: none">Hybrid Detour Refinement Strategy for Package Substrate Routing</a>" is accepted to 2025 30th Asia and South Pacific Design Automation Conference (ASP-DAC).</p>
 
     <p><strong>Jan., 2024:</strong> <b>Paper Acceptance</b> <br>
     Our paper "Hybrid Refinement Strategy for Package Substrate Routing" is accepted to 2024 The 25th Workshop on Synthesis And System Integration of Mixed Information technologies (SASIMI).</p>
@@ -108,7 +108,7 @@ Ding-Hsun Lin, <ins>**Tsubasa Koyama**</ins>, Yu-Jen Chen, Keng-Tuan Chang, Chih
   </details>
 </div>
 <div style="text-align: left; display: inline-block;">
-  <a href="" target="_blank">
+  <a href="assets/pdf/Hybrid_Detour_Refinement_Strategy_for_Package_Substrate_Routing.pdf" target="_blank">
     <button>PDF</button>
   </a>
 </div>
