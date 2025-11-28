@@ -18,7 +18,7 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
 <div style="overflow: auto; max-height: 300px;">
 
     <p><strong>Sep., 2024:</strong> <b>Paper Acceptance</b> <br>
-    Our paper "<a href="https://dl.acm.org/doi/10.1145/3658617.3697732" style="text-decoration: none">Hybrid Detour Refinement Strategy for Package Substrate Routing</a>" is accepted to 2025 30th Asia and South Pacific Design Automation Conference (ASP-DAC).</p>
+    Our paper "<a href="https://dl.acm.org/doi/10.1145/3658617.3697732" style="text-decoration: none" target="_blank">Hybrid Detour Refinement Strategy for Package Substrate Routing</a>" is accepted to 2025 30th Asia and South Pacific Design Automation Conference (ASP-DAC).</p>
 
     <p><strong>Jan., 2024:</strong> <b>Paper Acceptance</b> <br>
     Our paper "Hybrid Refinement Strategy for Package Substrate Routing" is accepted to 2024 The 25th Workshop on Synthesis And System Integration of Mixed Information technologies (SASIMI).</p>
@@ -30,7 +30,7 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
     I completed my MSc in Computer Science from <a href="https://nthu-en.site.nthu.edu.tw/" target="_blank">National Tsing Hua University (NTHU)</a>.</p>
 
     <p><strong>Nov., 2022:</strong> <b>Paper Acceptance</b> <br>
-    Our paper "<a href="https://ieeexplore.ieee.org/document/10195268" style="text-decoration: none">Deep Learning based Refinement for Package Substrate Routing</a>" is accepted to 2023 IEEE 73rd Electronic Components and Technology Conference (ECTC).</p>
+    Our paper "<a href="https://ieeexplore.ieee.org/document/10195268" style="text-decoration: none" target="_blank">Deep Learning based Refinement for Package Substrate Routing</a>" is accepted to 2023 IEEE 73rd Electronic Components and Technology Conference (ECTC).</p>
     
     <p><strong>Sep., 2021:</strong> <b>MSc Admission</b> <br>
     I commenced my MSc in Computer Science at <a href="https://nthu-en.site.nthu.edu.tw/" target="_blank">National Tsing Hua University (NTHU)</a>.</p>
