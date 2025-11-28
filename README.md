@@ -55,7 +55,7 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
   <li>Layout Versus Schematic (LVS) RC-mode:
   <ul>
       <li>Implemented a new netlist comparison algorithm for internal testing, achieving &sim;6× speedup and &sim;80% memory reduction, enhancing overall in-house testing turnaround time.</li>
-      <li>Contributed to the development and enhancement of LVS RC extraction methodologies for advanced nodes across multiple foundries, including TSMC, Intel, and Samsung.</li>
+      <li>Contributed to the development and enhancement of LVS RC extraction methodologies across multiple foundries, primarily for advanced nodes while also supporting mature nodes.</li>
   </ul>
   </li>
 </ul>
