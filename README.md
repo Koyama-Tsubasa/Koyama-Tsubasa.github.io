@@ -47,21 +47,18 @@ My motto is "Per Aspera Ad Astra," a sentiment that reflects my aspiration to tr
 ---
 
 ## Employment History
-<div style="overflow: auto; max-height: 450px;">
 
-    ### <span style="font-size:x-small;"> Sep. 2023 - present </span> <br> **Software Engineer II** <br> <span style="font-size:smaller;"> Pegasus Verification System, *Cadence Design Systems, Inc.*, Taiwan </span>
+### <span style="font-size:x-small;"> Sep. 2023 - present </span> <br> **Software Engineer II** <br> <span style="font-size:smaller;"> Pegasus Verification System, *Cadence Design Systems, Inc.*, Taiwan </span>
 
-    <div style="margin-top: -15px;">
-    <ul>
-      <li>Layout Versus Schematic (LVS) RC-mode:
-      <ul>
-          <li>Implemented a new netlist comparison algorithm for internal testing, achieving &sim;6× speedup and &sim;80% memory reduction, enhancing overall in-house testing turnaround time.</li>
-          <li>Contributed to LVS RC extraction development for evolving advanced-node requirements across multiple leading foundries, improving engine performance and reducing gaps between new and legacy engines.</li>
-      </ul>
-      </li>
-    </ul>
-    </div>
-
+<div style="margin-top: -15px;">
+<ul>
+  <li>Layout Versus Schematic (LVS) RC-mode:
+  <ul>
+      <li>Implemented a new netlist comparison algorithm for internal testing, achieving &sim;6× speedup and &sim;80% memory reduction, enhancing overall in-house testing turnaround time.</li>
+      <li>Contributed to LVS RC extraction development for evolving advanced-node requirements across multiple leading foundries, improving engine performance and reducing gaps between new and legacy engines.</li>
+  </ul>
+  </li>
+</ul>
 </div>
 
 ---
